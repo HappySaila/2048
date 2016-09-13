@@ -1,6 +1,6 @@
 """2048 game
-Grant Wilson
-25 april 2015"""
+hussein suleman
+25 april 2014"""
 
 # random number generator
 import random
